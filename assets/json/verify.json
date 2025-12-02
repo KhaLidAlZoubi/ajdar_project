@@ -1,0 +1,12 @@
+{
+    "status":true,
+    "message":"success",
+    "data":{
+        "user":{
+            "id":1,
+            "name":"Khalid",
+            "phone":"0996359944"
+            },
+            "token":"1|leS4V6P5SUD2A5UbIi5LPpqJhXVWfy7PgKWpS4J1a99eafcd"
+            }
+}

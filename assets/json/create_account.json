@@ -1,0 +1,14 @@
+{
+    "status":true,
+    "message":"success",
+    "data":
+    {
+        "user":
+        {
+            "id":1,
+            "name":"Khalid",
+            "phone":"0996359940"
+            },
+            "token":"1|fgf6KXxY430bHbVFVeHRpRyTdjjxk7i1DSaJarRq072d6d09"
+            }
+        }
